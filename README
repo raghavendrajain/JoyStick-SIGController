@@ -1,0 +1,12 @@
+Here we make a test, in which robot's wheel velocity is changed depending on the button press
+    
+    Button 1: Move Forward
+    Button 2: Move Backward
+    Button 3: Turn Left
+    Button 4: Turn Right
+    Button 5: Stop
+
+The velocities to make change in robots behavior are hard coded in the Controller code. So, please change from there.
+
+The Controller code also receives the values for positions of different axis. The 2-Axis Joystick provides a simple and convenient way to add X-Y control to a project. 
+
